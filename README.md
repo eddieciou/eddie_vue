@@ -44,3 +44,4 @@ pnpm build
 ```sh
 pnpm lint
 ```
+# eddie_vue
