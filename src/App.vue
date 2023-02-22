@@ -1,10 +1,10 @@
 <template>
-  <TestTwo />
+  <TestThree />
 </template>
 
 <script lang="ts">
-import TestTwo from "@/components/TestTwo.vue";
+import TestThree from "@/components/TestThree.vue";
 export default {
-  components: { TestTwo },
+  components: { TestThree },
 };
 </script>
